@@ -8,4 +8,10 @@ https://developer.android.com/topic/libraries/architecture/viewmodel-savedstate?
 
 https://stackoverflow.com/questions/2533517/how-to-test-code-built-to-save-restore-lifecycle-of-an-activity
 
-![](https://github.com/gzeinnumer/SavedInstanceStateExample/blob/master/preview/example1.jpeg)
+![](https://github.com/gzeinnumer/SavedInstanceStateExample/blob/master/preview/example11.jpeg)
+
+---
+
+```
+Copyright 2021 M. Fadli Zein
+```
